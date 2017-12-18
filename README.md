@@ -17,3 +17,5 @@ Y_pred = logreg.predict(X_test)
 
 logreg.score(X_train, Y_train)
 
+For more information please visit
+https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings
